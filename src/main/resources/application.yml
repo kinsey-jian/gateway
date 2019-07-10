@@ -23,6 +23,3 @@ spring:
         multiplier: 1
         max-interval: 30000
         max-attempts: 15
-
-reactor:
-  netty: debug
